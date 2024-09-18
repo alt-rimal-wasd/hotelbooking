@@ -5,7 +5,7 @@
 package hotelbooking;
 
 /**
- *
+ * Customer class handles functionalities for customer
  * @author emort
  */
 public class Customer {
